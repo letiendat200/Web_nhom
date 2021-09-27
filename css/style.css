@@ -1,0 +1,48 @@
+
+body{
+	background: linear-gradient(to bottom, rgb(48, 29, 87), rgb(22, 196, 179));
+	text-transform: capitalize;
+	text-align: justify;
+	font-size: 1.65em;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+#title{
+	color: rgb(212, 146, 121);
+	font-family: 'Merriweather', serif;
+	
+}
+
+.subtitle{
+	color: rgb(212, 176, 21);
+	font-family: 'Merriweather', serif;
+}
+
+.para-text
+{
+	color:  white;
+	margin: 10px 1px 50px 10px;
+}
+
+.list-item{
+	color:  white;
+}
+
+#email{
+	text-transform: lowercase;
+	
+}
+
+.link
+{
+	text-decoration: none;	
+}
+
+.link:hover
+{
+	color: red;	
+}
+
+
+
